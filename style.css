@@ -18,6 +18,10 @@ p {
     font-size: 16px;
 }
 
+li {
+    list-style: none;
+}
+
 /* NAVIGATION BAR */
 
 nav {
@@ -32,4 +36,11 @@ nav {
 
 .nav__link--list {
     display: flex;
+}
+
+.nav__link--anchor {
+    margin: 0 12px;
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
 }
