@@ -68,4 +68,6 @@ nav {
 
 #about-me {
     min-height: 100vh;
+    display: flex;
+   
 }
