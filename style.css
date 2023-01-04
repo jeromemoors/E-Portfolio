@@ -81,4 +81,5 @@ nav {
 
 .about-me__info--container {
     display: flex;
+    justify-content: center;
 }
