@@ -48,7 +48,6 @@ nav {
 
 .nav__link--list {
     display: flex;
-    justify-self: start;
 }
 
 .nav__link--anchor {
